@@ -1,0 +1,21 @@
+{
+  "name": "survey",
+  "version": "1.0.0",
+  "description": "control de encuestas FreeFi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "freefi",
+    "survey"
+  ],
+  "author": "Chubasco",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "mongodb": "^2.1.18"
+  }
+}

@@ -1,0 +1,209 @@
+== url: http://www.ejemplode.com/52-encuestas/1273-ejemplo_de_encuesta_sobre_actividades_en_tiempo_libre.html
+
+== Encuesta: Nuevo jabón
+
+=== Preguntas
+1) ¿Cuál es su aroma favorito para los jabones líquidos?
+==== Alternativas
+Rosa
+Limón
+Lavanda
+Otro
+
+=== Preguntas
+2) ¿Qué color de jabón le agrada más?
+==== Alternativas
+Verde
+Rojo
+Amarillo
+Azul
+Otro
+
+=== Preguntas
+3) ¿Le agrada el color verde?
+==== Alternativas
+Si
+No
+
+=== Preguntas
+4) ¿Cuántas veces al día utiliza el jabón de lavar?
+==== Alternativas
+0
+Entre 1 y 5
+Entre 5 y 10
+Más de 10
+
+5) ¿Cuántas barras de jabón consume en el mes?
+==== Alternativas
+0
+Entre 1 y 3
+Entre 3 y 5
+Más de 5
+
+=== Preguntas
+6) ¿Compra jabones nacionales o prefiere los importados?
+==== Alternativas
+
+
+=== Preguntas
+7) ¿Siempre compra la misma marca de jabón?
+==== Alternativas
+Si
+No
+
+______________________________________________________________________________
+
+== Encuesta de satisfacción Universidad
+=== Preguntas
+1.	¿Porqué elegiste la carrera de Ingeniería?
+==== Alternativas
+a) Por vocación
+b) Por las oportunidades de trabajo
+c) Por que tu primera opción de carrera no se formalizo
+d) Por los sueldos prometedores
+
+=== Preguntas
+2.	¿Porqué elegiste la Universidad del Pacífico para estudiar la carrera de ingeniería?
+==== Alternativas
+a) Por que te gustó el plan de estudio
+b) Por que la Universidad es bonita
+c) Por que estas convencido de que es la mejor Universidad en la materia
+d) Por la oportunidades de trabajo que te ofrece
+
+=== Preguntas
+3.	¿ Qué esperas o esperabas de la carrera de ingeniería en la Universidad del Pacífico?
+
+=== Preguntas
+4.	Cuando ingresaste a la carrera de ingeniería ¿qué te prometió la universidad?
+
+=== Preguntas
+5.	¿La Universidad del Pacífico te ha cumplido las promesas que te hizo con respecto a la carrera ingeniería?
+==== Alternativas
+a) Si
+b) No
+c) Algunas cosas
+
+=== Preguntas
+6.	¿ Te arrepientes de haber decidido estudiar ingeniería en la Universidad del Pacífico?
+==== Alternativas
+a) Si
+b) No
+
+=== Preguntas
+7.	¿Qué cambiarías de la carrera de ingeniería en la Universidad del Pacífico?
+
+=== Preguntas
+8.	¿Qué es lo que más te gusta de la carrera de ingeniería en la Universidad del Pacífico?
+
+=== Preguntas
+9.	¿Qué no te gusta de la carrera de ingeniería en la Universidad del Pacífico?
+
+=== Preguntas
+10. Posibles recomendaciones para mejorar el servicio que la Universidad del Pacífico le ofrece a sus estudiantes de ingeniería.
+
+
+== Encuesta sobre actividades en tiempo libre
+
+=== Preguntas
+A) ¿Cuántas horas por día le dedica al ocio? 
+==== Alternativas
+Ninguna  
+Menos de dos horas  
+Entre dos y seis horas  
+Más de seis horas   
+
+=== Preguntas
+B) ¿Qué hace en su tu tiempo libre? 
+==== Alternativas
+Lee un libro, revista o periódico                                
+Encuentros con amigos o familiares
+Sale de compras
+Cine o televisión
+Actividades deportivas
+Otro                                
+
+=== Preguntas
+C) ¿Tiene alguna clase de hobby? 
+
+==== Alternativas
+Sí 
+No 
+
+=== Preguntas 
+D) ¿Si respondió que SI la pregunta anterior, cuál es su hobby y cuánto hace que lo practicas? 
+
+
+=== Preguntas
+E) ¿En promedio cuántas horas semanales las destina a la realización de su hobby? 
+==== Alternativas 
+Menos de una hora 
+Entre una y cinco horas 
+Más de cinco horas semanales  
+
+
+=== Preguntas
+F) ¿Practica su hobby en forma individual o con otras personas? 
+==== Alternativas
+Sólo 
+En compañía
+
+
+== url: https://www.survio.com/plantilla-de-encuesta/evaluacion-del-servicio-prestado
+
+=== Preguntas
+1 ¿Qué le gusta más en nuestro nuevo servicio?
+
+=== Preguntas
+2 ¿Qué cambios, según usted, mejorarían más nuestro nuevo servicio?
+
+
+=== Preguntas
+3 ¿Lo qué le gusta más en los servicios semejantes de otras compañías en competencia?
+
+
+=== Preguntas
+4 ¿Qué cambios le gustarían más para mejorar los existentes servicios semejantes de las compañías de competencia?
+
+
+=== Preguntas
+5 ¿Si estuviera en vigor nuestro nuevo servicio, cuál es la probabilidad que lo utilizaría en lugar de servicios similares de la competencia?
+==== Alternativas
+100 %
+75 %
+50 %
+25 %
+0 %
+
+=== Preguntas
+6 ¿Si no está probable que utilizara nuestro servicio, por favor, indique por qué?
+
+
+=== Preguntas
+7 ¿Qué haría aumentar su potencial interés en nuestro nuevo servicio?
+
+
+=== Preguntas
+8 ¿Hasta qué punto es crucial para usted la bandura al momento de elegir entre servicios similares?
+==== Alternativas
+Máximo
+Considerablamente
+Más bien sí
+Más bien no
+No mucho
+En absoluto
+
+=== Preguntas
+9 ¿Cuál es su impresión general al usar nuestro servicio nuevo?
+==== Alternativas
+Excelente
+Bueno
+Malo
+
+=== Preguntas
+10 ¿Si fuera nuestro nuevo servicio disponible en el mercado, lo recomendaría?
+==== Alternativas
+Definitivamente sí
+Sí
+No
+Definitivamente no
+

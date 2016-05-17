@@ -1,0 +1,94 @@
+ 
+
+{ "Encuesta" : {
+		"url" : "http://www.ejemplode.com/52-encuestas/1273-ejemplo_de_encuesta_sobre_actividades_en_tiempo_libre.html",
+		 "nombre" : "Nuevo jabón",
+		 "Rango etareo" : "18-55",
+		 "Preguntas" : [{
+		 	"Texto" : "¿Cuál es su aroma favorito para los jabones líquidos?",
+		 	"Tipo" :"Alternativas Simple",
+		 	"Alternativas" : [
+		 		{ "Alternativa" : "Rosa" },
+				{ "Alternativa" : "Limón" },
+				{ "Alternativa" : "Lavanda" },
+				{ "Alternativa" : "Otro"}
+		 		] 
+		 	},
+		 	{
+		 	"Texto" : "¿Qué color de jabón le agrada más?",
+		 	"Tipo" :"Alternativas Simple",
+		 	"Alternativas" : [
+				{ "Alternativa" : "Verde" },
+				{ "Alternativa" : "Rojo" },
+				{ "Alternativa" : "Amarillo" },
+				{ "Alternativa" : "Azul" },
+				{ "Alternativa" : "Otro"}
+		 		] 
+		 	},
+		 	{
+		 	"Texto" : "¿Le agrada el color verde?",
+		 	"Tipo" :"Alternativas si/no"
+		 	},
+		 	{
+		 	"Texto" : "¿Cuántas veces al día utiliza el jabón de lavar?",
+		 	"Tipo" :"Alternativas Simple",
+		 	"Alternativas" : [
+				{ "Alternativa" : "0" },
+				{ "Alternativa" : "Entre 1 y 5" },
+				{ "Alternativa" : "Entre 5 y 10" },
+				{ "Alternativa" : "Más de 10" }
+		 		] 
+		 	},
+		 	{
+		 	"Texto" : "¿Cuántas barras de jabón consume en el mes?",
+		 	"Tipo" :"Alternativas Simple",
+		 	"Alternativas" : [
+				{ "Alternativa" : "0" },
+				{ "Alternativa" : "Entre 1 y 3" },
+				{ "Alternativa" : "Entre 3 y 5" },
+				{ "Alternativa" : "Más de 5" }
+		 		] 
+		 	},
+		 	{
+		 	"Texto" : "¿Compra jabones nacionales o prefiere los importados?",
+		 	"Tipo" :"Alternativas Simple",
+		 	"Alternativas" : [
+				{ "Alternativa" : "nacionales" },
+				{ "Alternativa" : "importados"}
+		 		] 
+		 	},
+		 	{
+		 	"Texto" : "¿Siempre compra la misma marca de jabón?",
+		 	"Tipo" :"si/no"
+		 	}, // Fin de preguntas, nuevo jabón 
+
+		 	{
+		 		"nombre" : "Encuesta de satisfacción Universidad",
+		 		"Rango etareo" : "18-55",
+		 		"Preguntas" : [{
+			 	"Texto" : "¿Porqué elegiste la carrera de Ingeniería?",
+			 	"Tipo" :"Alternativas Simple",
+			 	"Alternativas" : [
+			 		{ "Alternativa" : "Por vocación" },
+			 		{ "Alternativa" : "Por las oportunidades de trabajo" },
+			 		{ "Alternativa" : "Por que tu primera opción de carrera no se formalizo" },
+			 		{ "Alternativa" : "Por los sueldos prometedores" }
+			 		] 
+			 	},
+		 	{
+		 		"nombre" : "",
+		 		"Rango etareo" : "18-55",
+		 		"Preguntas" : [{
+			 	"Texto" : "",
+			 	"Tipo" :"Alternativas Simple",
+			 	"Alternativas" : [
+			 		{ "Alternativa" : "" },
+					{ "Alternativa" : "Otro"}
+			 		] 
+		 
+		 	}] 
+	}
+}
+
+
+
