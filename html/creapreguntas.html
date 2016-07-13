@@ -20,37 +20,32 @@
   </header>
 
   <article id="Presentacion">
-    Construya la encuesta
+    Construya la encuesta 
   </article>
 
   <form action="creapreguntas.html" method="POST">
-    <legend class="detalle">Alternativas</legend>
+    <legend class="detalle">Pregunta</legend>
     <input type="text" placeholder="Pregunta" name="question"><br>
-    <input type="text" placeholder="Tipo de Pregunta" name="tipo" list=TipoEncuesta >
-    <datalist id=TipoEncuesta >
-       <option> Respuesta unica
-       <option> Respuesta múltiple
-       <option> Sí/No
-       <option> Texto
-       <option> Texto largo
-    </datalist>
-<br>
-<select name="listaTipos" >
-       <option> Respuesta unica</option>
-       <option> Respuesta múltiple</option>
-       <option> Sí/No</option>
-       <option> Texto </option>
-       <option> Texto largo</option>
-</select>     
+    <!-- input type="text" placeholder="Tipo de Pregunta" name="tipo" list=TipoEncuesta ><!-->
 
+    <select name="listaTipos" >
+           <option>Respuesta unica</option>
+           <option>Respuesta múltiple</option>
+           <option>Sí/No</option>
+           <option>Texto </option>
+           <option>Texto largo</option>
+    </select>     
 
-    <legend class="detalle">Alternativas</legend>
-    <input type="text" placeholder="Alternativa 1" name="choose1"><br>
-    <input type="text" placeholder="Alternativa 2" name="choose2"><br>
-    <input type="text" placeholder="Alternativa 3" name="choose3"><br>
-    <input type="text" placeholder="Alternativa 4" name="choose4"><br>
-    <input type="text" placeholder="Alternativa 5" name="choose5"><br>
-    <button type="submit">Aceptar</button>
+    <div id="alternativas" class="listaVariable">
+      <legend class="detalle">Alternativas</legend>
+      <input type="text" placeholder="Alternativa 1" name="choose1"><br>
+      <input type="text" placeholder="Alternativa 2" name="choose2"><br>
+      <input type="text" placeholder="Alternativa 3" name="choose3"><br>
+      <input type="text" placeholder="Alternativa 4" name="choose4"><br>
+      <input type="text" placeholder="Alternativa 5" name="choose5"><br>
+      <button type="submit">Cerrar cuestionario</button>
+      <button type="submit">Aceptar</button>
+    </div>
   </form>
 
 

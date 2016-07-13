@@ -185,8 +185,8 @@ En compañía
 === Preguntas
 8 ¿Hasta qué punto es crucial para usted la bandura al momento de elegir entre servicios similares?
 ==== Alternativas
-Máximo
 Considerablamente
+Máximo
 Más bien sí
 Más bien no
 No mucho
