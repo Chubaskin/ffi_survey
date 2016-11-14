@@ -1,0 +1,11 @@
+{
+  "_id": 1,
+  "pregunta" :'Pregunta 1',
+  "alternativas" : [}
+    { _"id" : 1, texto : 'aletranativa 1'},
+    { "_id" : 2, texto : 'aletranativa 2'},
+    { "_id" : 3, texto : 'aletranativa 2'},
+    { "_id" : 4, texto : 'aletranativa 2'}
+  ],
+  correcto : 'a'
+}
